@@ -8,9 +8,9 @@
 ### 前端部分
 
 thymeleaf : 
-    - 前端通过 ${session.user.name} 取值
-    - <span th:if="${xx} == xxx"></span> th:if 进行判断(处理登录前后导航信息问题)
-    - 
-    - 
+- 前端通过 ${session.user.name} 取值
+- <span th:if="${xx} == xxx"></span> th:if 进行判断(处理登录前后导航信息问题)
+- 
+- 
 	
 
